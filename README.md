@@ -6,7 +6,9 @@ Scan the generated QR code with any iOS or Android device to instantly connect t
 ## Features
 
 ✔ Standards-compliant Wi-Fi QR format
+
 ✔ Supports WPA, WEP, and open networks
+
 ✔ Generates PNG QR codes ready to share or print
 
 ---
